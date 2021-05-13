@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.yxad.cn%2Fimages%2F20181013%2Fbc68474a88ab413491e8f7af67291da2.jpeg&refer=http%3A%2F%2Fimg.yxad.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1623491053&t=f0a21c52d598330130c110f00cc84891)
+
 
 <!--
 **hang1017/hang1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
