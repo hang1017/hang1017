@@ -1,7 +1,7 @@
 ## 关于我
 
 - 前端开发人员，积极的开源工作者。
-- [@alitajs/dform](https://github.com/alitajs/DynamicForm) 移动端动态表单库的作者。
+- [@alitajs/dform](https://github.com/alitajs/DynamicForm) 移动端动态表单库的仓库管理员。
 - [alita](https://github.com/alitajs/alita) 的辅助开发人员。
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hang1017&show_icons=true)
